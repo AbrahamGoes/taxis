@@ -1,0 +1,33 @@
+@media (max-width: 575px) { 
+		#navbarNav{
+			background-color: rgba(114,204,219, 1);
+		}
+		.lin-menu{
+		color: white !important;
+		border:solid 1px white;
+	    }
+ }
+
+@media (min-width: 576px) and (max-width: 767px) { 
+		#navbarNav{
+			background-color: rgba(114,204,219, 1);
+		}	
+		.lin-menu{
+		color: white !important;
+		border:solid 1px white;
+	    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+	
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+	
+}
+
+@media (min-width: 1200px) {
+	
+
+}

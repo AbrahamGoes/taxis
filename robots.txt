@@ -1,0 +1,6 @@
+User-Agent: *
+Allow:     http://www.radiotaxietp.com.mx
+Disallow: https://www.radiotaxietp.com.mx
+Disallow: https://www.radiotaxietp.com.mx
+Disallow:  http://www.radiotaxietp.com.mx
+Sitemap:   http://www.radiotaxietp.com.mx/sitemap.xml
